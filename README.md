@@ -62,9 +62,9 @@ Attack Modes:
 Usage:
 ---------------------------------------------------------------
 
-chmod +x e4recon.sh 
-dos2unix e4recon.sh
-./e4recon.sh  
+ chmod +x e4recon.sh 
+ dos2unix e4recon.sh
+ ./e4recon.sh  
 
 The script automatically creates and activates a Python virtual environment for tools like theHarvester and wapiti.
 
@@ -133,9 +133,9 @@ Saldırı Profilleri:
 Kullanım:
 ---------------------------------------------------------------
 
-chmod +x e4recon.sh
-dos2unix e4recon.sh
-./e4recon.sh
+ chmod +x e4recon.sh
+ dos2unix e4recon.sh
+ ./e4recon.sh
 
 Python araçları için venv otomatik oluşturulur ve aktif edilir.
 
@@ -208,9 +208,9 @@ Hücum rejimləri:
 İstifadə qaydası:
 ---------------------------------------------------------------
 
-chmod +x e4recon.sh
-dos2unix e4recon.sh
-./e4recon.sh  
+ chmod +x e4recon.sh
+ dos2unix e4recon.sh
+ ./e4recon.sh  
 
 Python alətləri üçün virtual mühit avtomatik yaradılır və aktivləşdirilir.
 
